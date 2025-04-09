@@ -318,7 +318,12 @@ If you use this work, please cite:
 
 ---
 
-## 📬 Contact
-For any questions or collaboration inquiries, feel free to reach out:
-📧 Email: er.rajpawar@gmail.com  
-🔗 GitHub: [r-a-j](https://github.com/r-a-j)
+## Contact
+
+- **Author:** [Harsh Ganpatbhai Rana](mailto:harshrana1519@outlook.com)   [Raj Anilbhai Pawar](mailto:er.rajpawar@gmail.com )
+
+For questions or feedback, feel free to open an issue or reach out by email.
+
+> **Disclaimer:** This repository is for academic and demonstration purposes. Results may vary depending on data cleaning, feature engineering, and regression assumptions.
+
+**Happy Analyzing!**

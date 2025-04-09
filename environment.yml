@@ -1,0 +1,13 @@
+name: sea_ice_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - jupyter
+  - nbconvert
